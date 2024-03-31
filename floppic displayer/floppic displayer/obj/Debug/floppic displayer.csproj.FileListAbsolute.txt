@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\bin\Debug\floppic displayer.exe.config
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\bin\Debug\floppic displayer.exe
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\bin\Debug\floppic displayer.pdb
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\obj\Debug\floppic displayer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\obj\Debug\floppic_displayer.Convertjpgtofloppic.resources
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\obj\Debug\floppic_displayer.Form1.resources
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\obj\Debug\floppic_displayer.Properties.Resources.resources
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\obj\Debug\floppic displayer.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\obj\Debug\floppic displayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\obj\Debug\floppic displayer.exe
+C:\Users\pc\source\repos\floppic displayer\floppic displayer\obj\Debug\floppic displayer.pdb
